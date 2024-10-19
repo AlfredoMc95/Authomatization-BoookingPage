@@ -11,10 +11,6 @@ This project automates the process of navigating a booking website using Seleniu
 - **Filter by Star Rating**: Filters the results to show only 4 and 5-star options.
 - **Return Results**: Extracts the filtered results and displays them in a tabular format (CSV or other).
 
-## Setup Instructions
-
-### Prerequisites
-
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
